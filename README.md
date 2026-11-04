@@ -427,11 +427,3 @@ Ferramenta de Suporte - Windows 11
 Diagnóstico • Manutenção • Reparação • Help Desk
 
 Projeto desenvolvido para tornar atendimentos técnicos do Windows 11 mais rápidos, padronizados e práticos.
-
-Principais melhorias do README
-Estruturei o conteúdo no padrão esperado para um repositório GitHub.
-Expliquei o que a ferramenta resolve, não apenas os comandos existentes.
-Separei funcionalidades por áreas de suporte.
-Acrescentei requisitos, segurança, compatibilidade e uso corporativo.
-Mantive o texto independente de nomes pessoais ou da empresa, deixando o projeto adequado para publicação pública.
-Inclua uma seção de instalaçãoAdicione exemplos de usoCrie uma versão em inglês
