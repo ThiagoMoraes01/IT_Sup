@@ -1,3 +1,4 @@
+EU CRIEI UM MONSTRO DO SUPORTE - Use com moderação.
 Ferramenta de Suporte - Windows 11
 
 Ferramenta em Batch (.BAT) desenvolvida para centralizar rotinas de diagnóstico, manutenção, reparo e suporte técnico no Windows 11.
